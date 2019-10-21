@@ -3,7 +3,6 @@
 BORDER = 10
 CELL = parseInt(prompt("Please enter cell sizein pixels", "128"));
 
-alert("Cell size: " + CELL)
 // Capture defaults
 defaultUnits = app.preferences.rulerUnits
 defaultBgColor = app.backgroundColor
