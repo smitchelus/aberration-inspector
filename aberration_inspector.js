@@ -1,7 +1,7 @@
 #target photoshop
 // constants
 BORDER = 10
-CELL = parseInt(prompt("Please enter cell sizein pixels", "128"));
+CELL = parseInt(prompt("Please enter cell size in pixels", "128"));
 
 // Capture defaults
 defaultUnits = app.preferences.rulerUnits
